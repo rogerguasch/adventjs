@@ -29,3 +29,7 @@ npm run lint
 # fix lint issues
 npm run lint:fix
 ```
+
+________
+
+**This repository** was created by **[Roger Guasch](https://twitter.com/rogerguasch)** under the **[MIT license](https://opensource.org/licenses/MIT)**.
