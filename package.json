@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "webpack serve --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
@@ -11,7 +12,8 @@
     "lint:fix": "npm run lint -- --fix",
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "test": "jest"
+    "test": "jest",
+    "day1": "node src/day1.js"
   },
   "keywords": [],
   "author": "",
