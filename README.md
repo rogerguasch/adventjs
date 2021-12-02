@@ -2,6 +2,8 @@
 
 This repository is my Advent of Code from https://adventjs.dev/ thanks to https://github.com/midudev
 
+The skeleton of the project is from https://github.com/CodelyTV/javascript-basic-skeleton
+
 [![lint](https://github.com/rogerguasch/adventjs/actions/workflows/lint.yml/badge.svg)](https://github.com/rogerguasch/adventjs/actions/workflows/lint.yml)
 
 ## Running the app
