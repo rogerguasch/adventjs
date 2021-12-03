@@ -14,7 +14,8 @@
     "cy:open": "cypress open",
     "test": "jest",
     "day1": "node src/day1.js",
-    "day2": "node src/day2.js"
+    "day2": "node src/day2.js",
+    "day3": "node src/day3.js"
   },
   "keywords": [],
   "author": "",
